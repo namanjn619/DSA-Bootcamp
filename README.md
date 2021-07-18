@@ -1,1 +1,1 @@
-DSA-Bootcamp and Library
+<centre> DSA-Bootcamp and Library
