@@ -1,0 +1,78 @@
+<%- layout('layouts/boilerplate') %>
+
+
+<div class="row">
+    <h1 class="text-center">Add a Question</h1>
+    <div class="col-6 offset-3">
+        <form action="/bootcamps" method="POST" novalidate class="validated-form">
+
+            <div class="mb-3">
+                <label class="form-label" for="title">Title</label>
+                <input class="form-control" type="text" name="title" id="title" placeholder="Question Title" autocomplete="off" required>
+                <div class="valid-feedback">
+                    Look's Good
+                </div>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label" for="topic">Topic</label>
+                <input class="form-control" type="text" name="topic" id="topic" placeholder="Topic of Question" autocomplete="off" required>
+                <div class="valid-feedback">
+                    Look's Good
+                </div>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label" for="tags">Tag</label>
+                <input class="form-control" type="text" name="tags" id="tags" placeholder="Enter a Tag" autocomplete="off" required>
+                <div class="valid-feedback">
+                    Look's Good
+                </div>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label" for="description">Description</label>
+                <textarea class="form-control" type="text" name="description" id="description" placeholder="Enter Description" autocomplete="off" required> </textarea>
+                <div class="valid-feedback">
+                    Look's Good
+                </div>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label" for="complexity">Complexity</label>
+                <div class="input-group">
+                    <span class="input-group-text" id="complexity">O(complexity)</span>
+                    <input type="text" class="form-control" id="complexity" placeholder="O(N)" aria-label="complexity"
+                        aria-describedby="complexity" autocomplete="off" name="complexity" required>
+                </div>
+                <div class="valid-feedback">
+                    Look's Good
+                </div>
+            </div>
+
+            <div class="mb-3">
+                <label for="difficulty">Choose Difficulty : </label>
+                <select name="difficulty" id="difficulty">
+                    <option value="Easy">Easy</option>
+                    <option value=">Medium">Medium</option>
+                    <option value="Hard">Hard</option>
+                </select>
+            </div>
+            
+            <div class="mb-3">
+            <label for="points">Enter Points : </label>
+            <select name="points" id="points">
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="4">4</option>
+            </select>
+            </div>
+            
+            <div class="mb-3">
+                <button class="btn btn-success">Add Question</button>
+            </div>
+
+        </form>
+        <a class="btn btn-dark mb-5" href="/bootcamps">All Questions</a>
+    </div>
+</div>
