@@ -23,7 +23,7 @@ I am currently woriking on Web Development, where I am Following MERN Stack for 
   
 ## Screenshots
 
-![Home](https://drive.google.com/file/d/1_oAN8tBuyzQJcrvrqe-WVH4XBrGnjgVB/view?usp=sharing)
+![Home](https://github.com/namanjn619/DSA-Bootcamp/blob/master/Images/about.png)
 
   
 ## Features
