@@ -21,27 +21,42 @@ I have a Hands on Experience with Data Structure and Algorithms and applied it u
 I am currently woriking on Web Development, where I am Following MERN Stack for Complete Development.
 
   
-## Features and Screenshots
-
-![Home](https://github.com/namanjn619/DSA-Bootcamp/blob/master/Images/home.png)
-![Question List](https://github.com/namanjn619/DSA-Bootcamp/blob/master/Images/question%20list.png)
-![Register User](https://github.com/namanjn619/DSA-Bootcamp/blob/master/Images/register%20user.png)
-![Login User](https://github.com/namanjn619/DSA-Bootcamp/blob/master/Images/login%20page.png)
-![Create Question](https://github.com/namanjn619/DSA-Bootcamp/blob/master/Images/adding%20solution.png)
-![Question Description](https://github.com/namanjn619/DSA-Bootcamp/blob/master/Images/question%20description.png)
-![Edit Question](https://github.com/namanjn619/DSA-Bootcamp/blob/master/Images/edit%20question.png)
-![Solution](https://github.com/namanjn619/DSA-Bootcamp/blob/master/Images/adding%20solution.png)
-![Navigation Bar](https://github.com/namanjn619/DSA-Bootcamp/blob/master/Images/navigation.png)
-![Question Creation](https://github.com/namanjn619/DSA-Bootcamp/blob/master/Images/question%20creation.png)
-![About](https://github.com/namanjn619/DSA-Bootcamp/blob/master/Images/about.png)
-
-  
-## Quick Points
+## Features
 
 - A Complete CRUD Web Application, where a user can build up his own Library of Important DSA Questions.
 - Any user can Register and Login to Create his Question which can visible to anyone.
 - Any user can Submit their Answers by Commenting on the Question and can also give ratings.
 - Web Application comes with 100 Impostant DSA Questions from Various Topics
+
+
+## Stack
+- Front End : HTML, CSS, BootStrap, JavaScript
+- Back End : ExpressJS, NodeJS, EJS, Passport
+- Database : MongoDB
+  
+## Pages and Screenshots
+### Home Page
+![Home](https://github.com/namanjn619/DSA-Bootcamp/blob/master/Images/home.png)
+### List of All Questions
+![Question List](https://github.com/namanjn619/DSA-Bootcamp/blob/master/Images/question%20list.png)
+### Registration Page
+![Register User](https://github.com/namanjn619/DSA-Bootcamp/blob/master/Images/register%20user.png)
+### Login Page
+![Login User](https://github.com/namanjn619/DSA-Bootcamp/blob/master/Images/login%20page.png)
+### Add a Question Page
+![Create Question](https://github.com/namanjn619/DSA-Bootcamp/blob/master/Images/adding%20solution.png)
+### Question Description
+![Question Description](https://github.com/namanjn619/DSA-Bootcamp/blob/master/Images/question%20description.png)
+### Edit Question Page
+![Edit Question](https://github.com/namanjn619/DSA-Bootcamp/blob/master/Images/edit%20question.png)
+### Solution Adding
+![Solution](https://github.com/namanjn619/DSA-Bootcamp/blob/master/Images/adding%20solution.png)
+### Navigation Bar
+![Navigation Bar](https://github.com/namanjn619/DSA-Bootcamp/blob/master/Images/navigation.png)
+### Question Creation Process
+![Question Creation](https://github.com/namanjn619/DSA-Bootcamp/blob/master/Images/question%20creation.png)
+### About Page
+![About](https://github.com/namanjn619/DSA-Bootcamp/blob/master/Images/about.png)
 
   
 ## FAQ
